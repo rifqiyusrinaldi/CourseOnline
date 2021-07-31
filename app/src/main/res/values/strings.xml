@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">CourseOnline</string>
+    <string name="nama_kursus">Nama Kursus</string>
+    <string name="kategori_kursus">Kategori</string>
+    <string name="harga_kursus">Rp.000.000</string>
+    <string name="rating_kursus">5.0</string>
+    <string name="deskripsi_kursus_sign">Deskripsi Kursus</string>
+    <string name="deskripsi_khursus">deskripsi kursus panjag lebar</string>
+    <string name="kursus_tab">Kursus</string>
+    <string name="rekomendasi_tab">Rekomendasi</string>
+    <string name="nama_user">Nama User</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="nama_kursus_hint">Nama Kursus</string>
+    <string name="harga_kursus_hint">Harga Kursus</string>
+    <string name="deskripsi_kursus_hint">Deskripsi Kursus</string>
+    <string name="upload_gambar_btn">upload gambar</string>
+    <string name="belajar_btn">Belajar</string>
+    <string name="buat_kategori_baru_pop_up">Buat Kategori Baru</string>
+    <string name="kategori_hint">Kategori</string>
+    <string name="simpan_kategori_btn">Simpan</string>
+    <string name="nama_user_hint">Nama</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="upload_foto_profil_btn">Upload Foto Profil</string>
+    <string name="input_btn">Input</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_sign">No</string>
+    <string name="nama_sign">Nama</string>
+    <string name="jenis_kelamin_sign">Jenis Kelamin</string>
+    <string name="username_sign">Username</string>
+    <string name="nama_user_value">nama user</string>
+    <string name="jk_value">jk</string>
+    <string name="username_user_value">username</string>
+    <string name="username_hint_login">Username</string>
+    <string name="password_hint_login">Password</string>
+    <string name="login_btn">Log In</string>
+    <string name="register_btn">Register</string>
+    <string name="beri_rating_pop_up">Beri Rating</string>
+    <string name="rating_1">1</string>
+    <string name="rating_2">2</string>
+    <string name="rating_3">3</string>
+    <string name="rating_4">4</string>
+    <string name="rating_5">5</string>
+    <string name="rate_btn">Rate</string>
+    <string name="cancle_btn">Cancle</string>
+    <string name="keluar_btn">Keluar</string>
+    <string name="mea_sign">MAE</string>
+    <string name="mae_score">00,00</string>
+    <string name="email_mentor">Email</string>
+    <string name="deskripsi_singkat_mentor_hint">Deskripsi Singkat</string>
+    <string name="email_sign">Email</string>
+    <string name="recomended_sign">Recomended</string>
+    <string name="mentor_sign">Mentor</string>
+    <string name="kategori_sign">Kategori</string>
+    <string name="nama_user_profile">Nama User</string>
+    <string name="username_user">Username</string>
+    <string name="password_user">Password</string>
+    <string name="type_kursus">Type</string>
+    <string name="list_user_admin">List User</string>
+    <string name="tanggal_workshop">Tanggal Workshop</string>
+    <string name="pemater_sign">Pemateri :</string>
+    <string name="nama_pemateri_kursus">Nama Pemateri</string>
+    <string name="master_mentor">master</string>
+    <string name="list_mentor_sign">List Mentor</string>
+    <string name="tanggal_kursus_hint">Tanggal Kursus</string>
+    <string name="tanggal_workshop_hint">Tanggal Workshop</string>
+    <string name="harga_workshop_hint">Harga Workshop</string>
+    <string name="deskripsi_workshop_hin">Deskripsi Workshop</string>
+    <string name="pekerjaan_mentor">Pekerjaan</string>
+    <string name="keterangan_value">Keterangan</string>
+    <string name="edit_course">Edit</string>
+    <string name="thumbnail_course_sign">Thumbnail Course</string>
+    <string name="course_sign">Course</string>
+    <string name="edit_photo_btn">Edit Photo</string>
+    <string name="time">04:32</string>
+    <string name="tittle">Some Title Here</string>
+    <string name="summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+
+
+    <string-array name="jenis_kelamin">
+        <item>Laki - Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>
